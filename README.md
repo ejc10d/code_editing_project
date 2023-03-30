@@ -1,4 +1,4 @@
-# Challege_1
+# Code Editing Project
 
 ## Description
 
